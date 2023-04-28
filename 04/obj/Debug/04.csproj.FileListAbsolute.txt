@@ -1,0 +1,7 @@
+D:\DomashnaRabota\Programing\LambdaFunctions\04\bin\Debug\04.exe.config
+D:\DomashnaRabota\Programing\LambdaFunctions\04\bin\Debug\04.exe
+D:\DomashnaRabota\Programing\LambdaFunctions\04\bin\Debug\04.pdb
+D:\DomashnaRabota\Programing\LambdaFunctions\04\obj\Debug\04.csproj.AssemblyReference.cache
+D:\DomashnaRabota\Programing\LambdaFunctions\04\obj\Debug\04.csproj.CoreCompileInputs.cache
+D:\DomashnaRabota\Programing\LambdaFunctions\04\obj\Debug\04.exe
+D:\DomashnaRabota\Programing\LambdaFunctions\04\obj\Debug\04.pdb
